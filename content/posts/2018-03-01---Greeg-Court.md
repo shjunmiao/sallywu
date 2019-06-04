@@ -1,6 +1,6 @@
 ---
 title: 1 bed, 1 bath, Greeg Court Apartment
-date: "2019-08-19T22:40:32.169Z"
+date: "2018-08-19T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/greeg-court/"

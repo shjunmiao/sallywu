@@ -1,6 +1,6 @@
 ---
 title: Mint Nails and Beauty Spa
-date: "2019-08-19T22:40:32.169Z"
+date: "2017-08-19T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/mint-nail-beauty-spa/"

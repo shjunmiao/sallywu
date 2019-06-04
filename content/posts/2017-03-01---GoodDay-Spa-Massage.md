@@ -1,6 +1,6 @@
 ---
 title: Good Day Spa & Massage
-date: "2019-08-19T22:40:32.169Z"
+date: "2017-01-19T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/goodday-spa-massage/"

@@ -2,11 +2,4 @@
 title: "About me"
 template: "page"
 ---
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
-
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+I was born in a family doing estate development. I have started learning design since I were 6. I love design and the happiest moment is when the client praised my design. I completed 8 commercial design projects and 1 residential design project during my college time and most of my clients are from the recommendations of the previous client. I love travelling, learned different styles of architecture from the real world and broad my view. I am a very confident, competent, creative and productive interior designer with extensive experience working on projects in different disciplines both commercial and residential. I work very hard. I am a quick learner and also a very good team player. I am looking for an interior design position to pursuit my career and embrace the new challenge. If you have any position that suits me, please feel free to email me: wuyue911025@gmail.com

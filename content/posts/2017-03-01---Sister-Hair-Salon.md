@@ -3,7 +3,7 @@ title: Sister Hair Salon
 date: "2019-08-19T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/post/sister-hair-salon/"
+slug: "/posts/sister-hair-salon/"
 category: "Commercial"
 tags:
   - "Interior Design"

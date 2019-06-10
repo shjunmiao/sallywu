@@ -24,7 +24,7 @@ const Feed = ({ edges }: Props) => (
           </span>
         </div>
         <h2 className={styles['feed__item-title']}>
-          {edge.node.frontmatter.title}
+          {edge.node.fields.slug.indexOf('http') >= 0 ? <a href={edge.node.fields.slug}>{edge.node.frontmatter.title}</a> : edge.node.frontmatter.title}
         </h2>
         <p className={styles['feed__item-description']}>{edge.node.frontmatter.description}</p>
         <br/>

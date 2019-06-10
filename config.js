@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
+  title: 'Yue Wu | Interior Designer',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -12,6 +12,10 @@ module.exports = {
     {
       label: 'My Work',
       path: '/'
+    },
+    {
+      label: 'Hand Draw',
+      path: '/pages/handdraw'
     },
     {
       label: 'About me',

@@ -2,10 +2,10 @@
 template: "page"
 ---
 
-![First Draw](/media/draw1.jpg)
+![First Draw](/handdraw/draw1.jpg)
 
-![Second Draw](/media/draw2.jpg)
+![Second Draw](/handdraw/draw2.jpg)
 
-![Third Draw](/media/draw3.jpg)
+![Third Draw](/handdraw/draw3.jpg)
 
-![Fourth Draw](/media/draw4.jpg)
+![Fourth Draw](/handdraw/draw4.jpg)
